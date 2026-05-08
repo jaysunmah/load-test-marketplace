@@ -1,0 +1,9 @@
+{
+  "name": "generated-plugin-002814",
+  "description": "Generated marketplace scale test plugin 002814 with three skills",
+  "version": "1.0.0",
+  "author": {
+    "name": "Generated Plugin Author",
+    "email": "test@example.com"
+  }
+}
