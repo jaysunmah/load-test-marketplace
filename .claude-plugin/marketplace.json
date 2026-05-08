@@ -21,7 +21,9 @@
       "lspServers": {
         "typescript": {
           "command": "typescript-language-server",
-          "args": ["--stdio"],
+          "args": [
+            "--stdio"
+          ],
           "extensionToLanguage": {
             ".ts": "typescript",
             ".tsx": "typescriptreact",
@@ -137,6 +139,126 @@
         "url": "https://github.com/jaysunmah/test-url-plugin.git"
       },
       "homepage": "https://github.com/jaysunmah/test-url-plugin"
+    },
+    {
+      "name": "generated-plugin-000001",
+      "description": "Generated marketplace scale test plugin 000001 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000001",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000001"
+    },
+    {
+      "name": "generated-plugin-000002",
+      "description": "Generated marketplace scale test plugin 000002 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000002",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000002"
+    },
+    {
+      "name": "generated-plugin-000003",
+      "description": "Generated marketplace scale test plugin 000003 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000003",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000003"
+    },
+    {
+      "name": "generated-plugin-000004",
+      "description": "Generated marketplace scale test plugin 000004 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000004",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000004"
+    },
+    {
+      "name": "generated-plugin-000005",
+      "description": "Generated marketplace scale test plugin 000005 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000005",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000005"
+    },
+    {
+      "name": "generated-plugin-000006",
+      "description": "Generated marketplace scale test plugin 000006 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000006",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000006"
+    },
+    {
+      "name": "generated-plugin-000007",
+      "description": "Generated marketplace scale test plugin 000007 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000007",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000007"
+    },
+    {
+      "name": "generated-plugin-000008",
+      "description": "Generated marketplace scale test plugin 000008 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000008",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000008"
+    },
+    {
+      "name": "generated-plugin-000009",
+      "description": "Generated marketplace scale test plugin 000009 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000009",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000009"
+    },
+    {
+      "name": "generated-plugin-000010",
+      "description": "Generated marketplace scale test plugin 000010 with three skills",
+      "version": "1.0.0",
+      "author": {
+        "name": "Generated Plugin Author",
+        "email": "test@example.com"
+      },
+      "source": "./plugins/generated-plugin-000010",
+      "category": "development",
+      "homepage": "https://github.com/jaysunmah/test-marketplace/tree/main/plugins/generated-plugin-000010"
     }
   ]
 }
