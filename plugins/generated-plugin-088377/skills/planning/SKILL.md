@@ -1,0 +1,15 @@
+---
+name: generated-plugin-088377-planning
+description: Use this skill to break down requests into concrete implementation steps for generated-plugin-088377.
+version: 1.0.0
+---
+
+# generated-plugin-088377-planning
+
+This generated skill belongs to `generated-plugin-088377` and supports marketplace scale testing.
+
+## Instructions
+
+1. Identify the relevant user goal.
+2. Use the plugin context to break down requests into concrete implementation steps.
+3. Return a concise result with any validation notes.
